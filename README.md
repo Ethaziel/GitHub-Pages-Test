@@ -1,8 +1,8 @@
 ### Table of contents
 
-1. [First Topic](https://github.com/Ethaziel/GitHub-Pages-Test/edit/main/README.md#first-topic)
-2. [Second Topic](https://github.com/Ethaziel/GitHub-Pages-Test/edit/main/README.md#second-topic)
-3. [Third Topic](https://github.com/Ethaziel/GitHub-Pages-Test/edit/main/README.md#first-topic)
+1. [First Topic](#first-topic)
+2. [Second Topic](#second-topic)
+3. [Third Topic](#third-topic)
 
 # First Topic
 Lets make a list
