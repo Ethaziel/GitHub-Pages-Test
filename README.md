@@ -41,3 +41,21 @@ Whats wrong?
 It should work...
 
 Damn
+
+Looks like it finally works!!
+
+The course was probably outdated..
+
+Good thing the internet knows everything...
+
+It still seems to work funny
+
+But whatever
+
+The course is quite old
+
+Like 6 years or so...
+
+Thats long
+
+Ehh
