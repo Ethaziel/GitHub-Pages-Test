@@ -1,8 +1,8 @@
 ### Table of contents
 
-1. [First Topic](https://github.com/Ethaziel/GitHub-Pages-Test/new/main#first-topic)
-2. [Second Topic](https://github.com/Ethaziel/GitHub-Pages-Test/new/main#second-topic)
-3. [Third Topic](https://github.com/Ethaziel/GitHub-Pages-Test/new/main#third-topic)
+1. [First Topic](https://github.com/Ethaziel/GitHub-Pages-Test/edit/main/README.md#first-topic)
+2. [Second Topic](https://github.com/Ethaziel/GitHub-Pages-Test/edit/main/README.md#second-topic)
+3. [Third Topic](https://github.com/Ethaziel/GitHub-Pages-Test/edit/main/README.md#first-topic)
 
 # First Topic
 Lets make a list
@@ -33,7 +33,11 @@ Lets make another list
 
 # Third Topic
 Looks like the links are not linking
+
 Why not?
+
 Whats wrong?
+
 It should work...
+
 Damn
